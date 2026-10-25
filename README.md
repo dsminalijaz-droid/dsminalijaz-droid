@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Minal%20Ejaz&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Teaching%20machines%20to%20see%2C%20reason%20%26%20act&descAlignY=60&descSize=18" width="100%" />
-
 [![Typing Intro](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F2FE&center=true&vCenter=true&width=720&lines=Machine+Learning+%7C+Deep+Learning;SQL+%7C+Data+%26+Analytics;Generative+AI+%7C+Agentic+AI;Medical+Imaging+Researcher+%F0%9F%94%AC;Next+stop%3A+PhD+%F0%9F%9A%80)](https://github.com/dsminalijaz-droid)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dsminalijaz-droid&label=Profile%20Views&color=7b2ff7&style=for-the-badge)
