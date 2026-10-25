@@ -9,33 +9,13 @@
 
 </div>
 
----
-
-## ⚡ Quick Intro
-
-```text
-> whoami
-Minal Ejaz | MIT Graduate | AI & Deep Learning Enthusiast
-
-> current_focus
-Medical image analysis, Generative AI, Agentic AI
-
-> pipeline
-Data  →  Preprocess  →  Model  →  Evaluate  →  Deploy
-
-> next_goal
-PhD in robust, clinically deployable AI
-```
-
----
 
 ## 👩‍💻 About Me
 
 - 🔭 **Focus:** Deep learning for medical image analysis, plus AI systems that actually ship.
 - 🧠 **AI Interest:** Machine Learning, Deep Learning, Generative AI and Agentic AI workflows.
 - 🗄️ **Data:** SQL, data preprocessing, augmentation and rigorous model evaluation.
-- 🎓 **Education:** Master of IT (CGPA 3.8 / 4.0), ALFA University College · BS Computer Science, Air University.
-- 🎯 **Current Target:** A PhD extending my research into clinically deployable deep learning.
+- 🎓 **Education:** Master of IT (CGPA 3.8 / 4.0) · BS Computer Science
 
 ---
 
